@@ -13,6 +13,6 @@ See images below for a guide on how to use this app. User clicks the start butto
 
 ![Questions](assets/images/Questions.png)
 
-![Enter your initials and add score to top scores](assets/images/topscoresEntry.png)
+![Submit](assets/images/topscoresEntry.png)
 
 ![Top scores page](assets/images/topscoresBack.png)
