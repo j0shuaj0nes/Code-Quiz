@@ -13,6 +13,6 @@ See images below for a guide on how to use this app. User clicks the start butto
 
 ![](assets/images/Questions.png)
 
-![](assets/images/topscoresEntry.png)
+![](assets/images/topscoreEntry.png)
 
 ![](assets/images/topscoresBack.png)
