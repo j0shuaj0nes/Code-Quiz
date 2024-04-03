@@ -9,5 +9,8 @@ It provides a series of questions with a timer which deducts 10 seconds whenever
 
 See images below for a guide on how to use this app. User clicks the start button to start the quiz. They then select an answer from the list below the question. Once all questions are answered, the user can enter their initials and submit their score to the top scores page. 
 
-    ```md
-    ![Home Page](assets/images/sc)
+    
+    ![Home Page](assets/images/homePage.png)
+    ![Home Page](assets/images/Questions.png)
+    ![Home Page](assets/images/topscoresEntry.png)
+    ![Home Page](assets/images/topscoresBack.png)
